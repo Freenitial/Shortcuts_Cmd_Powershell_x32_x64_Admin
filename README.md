@@ -1,4 +1,4 @@
-# Shortcuts of Cmd and Powershell as x32/x64/Admin
+# Shortcuts of Cmd and PowerShell as x32/x64/Admin
 
 - Script to create CMD and PowerShell shortcuts as x32/x64/Admin contexts (total of 8 shortcuts will be created)
 - Shortcuts will be dropped where you want, define the "Drop_Shortcuts_On" variable.
