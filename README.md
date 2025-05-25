@@ -2,7 +2,7 @@
 
 - Script to create CMD and PowerShell shortcuts as x32/x64/Admin contexts (total of 8 shortcuts will be created)
 - Shortcuts will be dropped where you want, define the "Drop_Shortcuts_On" variable.
-- CMD and PowerShell will set their current directory at opening, where you want, define the "Console_CD" variable.
+- CMD and PowerShell set their current directory at opening where you want, define the "Console_CD" variable.
 - Allows you to exceed the 260-character limit
 - Tested on Windows XP / 10 / 11
 
